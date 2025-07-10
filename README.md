@@ -1,7 +1,7 @@
-<meta name="google-site-verification" content="rROB-d49QvhU1Etc6ai6i6jg_KH0W2tm7aqMN31ZRMo" />
+<h1 align="center">Mohamed A. Abdallah</h1>
+<h3 align="center">Software Engineer | Open Source Enthusiast</h3>
 
-### Hello, there! 👋
-#### My name is **Mohamed A. Abdallah**.
-#### I'm currently studying software engineering at **AOU Egypt**.
-
-![Mohamed A Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAAbdallah&show_icons=true&theme=transparent&hide_rank=true)
+<p align="center">
+  <img height="220px" src="https://github-readme-stats.vercel.app/api?username=MohamedAAbdallah&show_icons=true&theme=github_dark&hide_rank=true&hide=prs&show=reviews,prs_merged,prs_merged_percentage" />
+  <img height="220px" src="https://streak-stats.demolab.com/?user=MohamedAAbdallah&theme=dark&card_height=220&starting_year=2024" />
+</p>
